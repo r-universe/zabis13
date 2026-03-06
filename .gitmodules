@@ -2,9 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "AV1R"]
+	path = AV1R
+	url = https://github.com/zabis13/av1r
 [submodule "cayleyR"]
 	path = cayleyR
 	url = https://github.com/zabis13/cayleyr
 [submodule "ggmlR"]
 	path = ggmlR
 	url = https://github.com/zabis13/ggmlr
+[submodule "llamaR"]
+	path = llamaR
+	url = https://github.com/zabis13/llamar
