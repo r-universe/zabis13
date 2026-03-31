@@ -14,3 +14,6 @@
 [submodule "llamaR"]
 	path = llamaR
 	url = https://github.com/zabis13/llamar
+[submodule "sd2R"]
+	path = sd2R
+	url = https://github.com/zabis13/sd2r
