@@ -8,6 +8,9 @@
 [submodule "cayleyR"]
 	path = cayleyR
 	url = https://github.com/zabis13/cayleyr
+[submodule "cgvR"]
+	path = cgvR
+	url = https://github.com/zabis13/cgvr
 [submodule "ggmlR"]
 	path = ggmlR
 	url = https://github.com/zabis13/ggmlr
