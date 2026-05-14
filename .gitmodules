@@ -11,6 +11,9 @@
 [submodule "cgvR"]
 	path = cgvR
 	url = https://github.com/zabis13/cgvr
+[submodule "drogonR"]
+	path = drogonR
+	url = https://github.com/zabis13/drogonr
 [submodule "ggmlR"]
 	path = ggmlR
 	url = https://github.com/zabis13/ggmlr
